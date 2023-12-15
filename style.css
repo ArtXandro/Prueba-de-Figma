@@ -1,0 +1,1326 @@
+.EVENT {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .EVENT .overlap-wrapper {
+    width: 1490px;
+    height: 953px;
+  }
+  
+  .EVENT .overlap {
+    position: relative;
+    height: 953px;
+  }
+  
+  .EVENT .frame {
+    position: absolute;
+    width: 1366px;
+    height: 953px;
+    top: 0;
+    left: 124px;
+    background-color: #1b1b25;
+    border-radius: 96px;
+    overflow: hidden;
+  }
+  
+  .EVENT .overlap-group {
+    position: relative;
+    width: 2136px;
+    height: 933px;
+    top: 8px;
+    left: 79px;
+  }
+  
+  .EVENT .IMG {
+    position: absolute;
+    width: 1280px;
+    height: 933px;
+    top: 0;
+    left: 0;
+  }
+  
+  .EVENT .SCHEDULE {
+    display: flex;
+    width: 1080px;
+    height: 682px;
+    align-items: flex-start;
+    gap: 1px;
+    position: absolute;
+    top: 229px;
+    left: 1056px;
+    border-radius: 80px;
+    overflow: hidden;
+  }
+  
+  .EVENT .rectangle {
+    position: relative;
+    align-self: stretch;
+    width: 225px;
+    background-color: #1b1b25;
+  }
+  
+  .EVENT .div {
+    position: relative;
+    align-self: stretch;
+    width: 1px;
+    background-color: #1b1b25;
+  }
+  
+  .EVENT .frame-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    position: absolute;
+    top: 273px;
+    left: 1136px;
+  }
+  
+  .EVENT .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 300;
+    color: #969eba;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .text-wrapper-2 {
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 48px;
+    position: relative;
+    width: fit-content;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .NOTI {
+    display: inline-flex;
+    gap: 8px;
+    padding: 12px 12px 12px 24px;
+    top: 4px;
+    left: 1103px;
+    background-color: #313141;
+    align-items: center;
+    position: absolute;
+    border-radius: 123px;
+  }
+  
+  .EVENT .text-wrapper-3 {
+    font-family: "Outfit-Medium", Helvetica;
+    font-weight: 500;
+    color: #8a8aab;
+    font-size: 16px;
+    position: relative;
+    width: fit-content;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .vuesax-linear-sms {
+    position: relative;
+    width: 20px;
+    height: 20px;
+  }
+  
+  .EVENT .line {
+    position: relative;
+    width: 1px;
+    height: 16px;
+    object-fit: cover;
+  }
+  
+  .EVENT .group {
+    position: relative;
+    width: 35px;
+    height: 35px;
+    background-color: #0d0d13;
+    border-radius: 17.5px;
+  }
+  
+  .EVENT .overlap-group-2 {
+    position: relative;
+    width: 29px;
+    height: 28px;
+    top: 1px;
+    left: 5px;
+  }
+  
+  .EVENT .vuesax-linear {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 4px;
+    left: 0;
+  }
+  
+  .EVENT .ellipse {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 0;
+    left: 20px;
+    background-color: #721cff;
+    border-radius: 4.5px;
+  }
+  
+  .EVENT .group-2 {
+    position: absolute;
+    width: 651px;
+    height: 317px;
+    top: 596px;
+    left: 420px;
+  }
+  
+  .EVENT .overlap-2 {
+    position: absolute;
+    width: 612px;
+    height: 208px;
+    top: 109px;
+    left: 0;
+    background-color: #0d0d14;
+    border-radius: 80px;
+  }
+  
+  .EVENT .text-wrapper-4 {
+    position: absolute;
+    top: 41px;
+    left: 61px;
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .p {
+    position: absolute;
+    top: 78px;
+    left: 61px;
+    font-family: "Outfit-Medium", Helvetica;
+    font-weight: 500;
+    color: #8a8aaa;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .frame-3 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 8px;
+    position: absolute;
+    top: 119px;
+    left: 56px;
+  }
+  
+  .EVENT .img {
+    position: relative;
+    width: 48px;
+    height: 48px;
+  }
+  
+  .EVENT .rectangle-2 {
+    position: relative;
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+  }
+  
+  .EVENT .vuesax-linear-direct {
+    position: absolute;
+    width: 116px;
+    height: 116px;
+    top: -44px;
+    left: 579px;
+  }
+  
+  .EVENT .TIME {
+    position: absolute;
+    width: 152px;
+    height: 90px;
+    top: 764px;
+    left: 827px;
+  }
+  
+  .EVENT .div-wrapper {
+    position: relative;
+    width: 150px;
+    height: 90px;
+    background-color: #1b1b25;
+    border-radius: 48px;
+  }
+  
+  .EVENT .text-wrapper-5 {
+    position: absolute;
+    top: 35px;
+    left: 33px;
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .group-3 {
+    position: absolute;
+    width: 274px;
+    height: 72px;
+    top: 38px;
+    left: 38px;
+  }
+  
+  .EVENT .group-4 {
+    position: absolute;
+    width: 182px;
+    height: 52px;
+    top: 13px;
+    left: 96px;
+  }
+  
+  .EVENT .text-wrapper-6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .text-wrapper-7 {
+    position: absolute;
+    top: 37px;
+    left: 0;
+    font-family: "Outfit-Medium", Helvetica;
+    font-weight: 500;
+    color: #8a8aaa;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .BACK {
+    display: inline-flex;
+    align-items: center;
+    gap: 32px;
+    padding: 24px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #313140;
+    border-radius: 64px;
+    box-shadow: 0px 4px 100px #56586a4c;
+  }
+  
+  .EVENT .vuesax-linear-direct-wrapper {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .EVENT .vuesax-linear-direct-2 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .EVENT .group-5 {
+    position: absolute;
+    width: 212px;
+    height: 450px;
+    top: 382px;
+    left: 1075px;
+  }
+  
+  .EVENT .line-2 {
+    position: absolute;
+    width: 212px;
+    height: 1px;
+    top: -1px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .EVENT .line-3 {
+    position: absolute;
+    width: 212px;
+    height: 1px;
+    top: 74px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .EVENT .line-4 {
+    position: absolute;
+    width: 212px;
+    height: 1px;
+    top: 149px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .EVENT .line-5 {
+    position: absolute;
+    width: 212px;
+    height: 1px;
+    top: 224px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .EVENT .line-6 {
+    position: absolute;
+    width: 212px;
+    height: 1px;
+    top: 299px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .EVENT .line-7 {
+    position: absolute;
+    width: 212px;
+    height: 1px;
+    top: 374px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .EVENT .line-8 {
+    position: absolute;
+    width: 208px;
+    height: 1px;
+    top: 449px;
+    left: 4px;
+    object-fit: cover;
+  }
+  
+  .EVENT .overlap-group-wrapper {
+    position: absolute;
+    width: 203px;
+    height: 209px;
+    top: 663px;
+    left: 1088px;
+  }
+  
+  .EVENT .overlap-3 {
+    position: relative;
+    width: 199px;
+    height: 209px;
+    background-color: #0d0d14;
+    border-radius: 36px 0px 0px 36px;
+  }
+  
+  .EVENT .overlap-group-3 {
+    position: absolute;
+    width: 192px;
+    height: 130px;
+    top: 74px;
+    left: 4px;
+  }
+  
+  .EVENT .ellipse-2 {
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    top: 1px;
+    left: 146px;
+    background-color: #1b1b25;
+    border-radius: 16.5px;
+  }
+  
+  .EVENT .rectangle-3 {
+    position: absolute;
+    width: 192px;
+    height: 130px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .EVENT .text-wrapper-8 {
+    position: absolute;
+    top: 44px;
+    left: 17px;
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .text-wrapper-9 {
+    position: absolute;
+    top: 24px;
+    left: 17px;
+    opacity: 0.3;
+    font-family: "Outfit-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .group-6 {
+    position: absolute;
+    width: 203px;
+    height: 71px;
+    top: 403px;
+    left: 1067px;
+  }
+  
+  .EVENT .overlap-4 {
+    position: relative;
+    width: 199px;
+    height: 71px;
+    background-color: #d53933;
+    border-radius: 24px;
+    box-shadow: 0px 4px 50px #d53933;
+  }
+  
+  .EVENT .rectangle-4 {
+    position: absolute;
+    width: 49px;
+    height: 49px;
+    top: 11px;
+    left: 143px;
+    object-fit: cover;
+  }
+  
+  .EVENT .text-wrapper-10 {
+    position: absolute;
+    top: 20px;
+    left: 17px;
+    opacity: 0.5;
+    font-family: "Outfit-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .text-wrapper-11 {
+    position: absolute;
+    top: 37px;
+    left: 17px;
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .group-7 {
+    position: absolute;
+    width: 199px;
+    height: 71px;
+    top: 480px;
+    left: 1088px;
+    background-color: #721cff;
+    box-shadow: 0px 4px 50px #721cff;
+  }
+  
+  .EVENT .frame-4 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    position: absolute;
+    top: 20px;
+    left: 17px;
+  }
+  
+  .EVENT .text-wrapper-12 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Outfit-Medium", Helvetica;
+    font-weight: 500;
+    color: #c6a4ff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .text-wrapper-13 {
+    position: relative;
+    width: fit-content;
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .rectangle-5 {
+    position: absolute;
+    width: 378px;
+    height: 334px;
+    top: 599px;
+    left: 0;
+  }
+  
+  .EVENT .ellipse-3 {
+    position: absolute;
+    width: 83px;
+    height: 83px;
+    top: 812px;
+    left: 256px;
+    background-color: #71f10d;
+    border-radius: 41.5px;
+  }
+  
+  .EVENT .group-8 {
+    position: absolute;
+    width: 120px;
+    height: 93px;
+    top: 666px;
+    left: 50px;
+  }
+  
+  .EVENT .text-wrapper-14 {
+    position: absolute;
+    height: 27px;
+    top: 0;
+    left: 0;
+    font-family: "Outfit-Medium", Helvetica;
+    font-weight: 500;
+    color: #8a8aaa;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .group-9 {
+    position: absolute;
+    width: 122px;
+    height: 53px;
+    top: 40px;
+    left: 0;
+  }
+  
+  .EVENT .text-wrapper-15 {
+    position: absolute;
+    height: 18px;
+    top: 4px;
+    left: 70px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #8989aa;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .text-wrapper-16 {
+    position: absolute;
+    height: 53px;
+    top: 0;
+    left: 0;
+    font-family: "Outfit-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .group-10 {
+    position: absolute;
+    width: 139px;
+    height: 93px;
+    top: 795px;
+    left: 50px;
+  }
+  
+  .EVENT .text-wrapper-17 {
+    position: absolute;
+    height: 53px;
+    top: 40px;
+    left: 0;
+    font-family: "Outfit-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .fuyu-matsuri {
+    position: absolute;
+    width: 638px;
+    height: 320px;
+    top: 196px;
+    left: 48px;
+  }
+  
+  .EVENT .group-11 {
+    position: absolute;
+    width: 183px;
+    height: 142px;
+    top: 540px;
+    left: 913px;
+  }
+  
+  .EVENT .vuesax-linear-2 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 838px;
+    left: 282px;
+  }
+  
+  .EVENT .CALENDAR {
+    position: absolute;
+    width: 192px;
+    height: 204px;
+    top: 728px;
+    left: 0;
+    background-color: #0d0d14;
+    border-radius: 72px;
+  }
+  
+  .EVENT .group-wrapper {
+    position: relative;
+    width: 131px;
+    height: 120px;
+    top: 46px;
+    left: 24px;
+  }
+  
+  .EVENT .group-12 {
+    position: relative;
+    height: 120px;
+  }
+  
+  .EVENT .date-picker-element {
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .text {
+    font-family: "Outfit-Regular", Helvetica;
+    color: #969eba;
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    top: -1px;
+    left: -11px;
+    font-weight: 400;
+    font-size: 8px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .EVENT .date-picker-element-2 {
+    left: 19px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+    top: 0;
+    overflow: hidden;
+  }
+  
+  .EVENT .date-picker-element-3 {
+    left: 38px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+    top: 0;
+    overflow: hidden;
+  }
+  
+  .EVENT .date-picker-element-4 {
+    left: 56px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+    top: 0;
+    overflow: hidden;
+  }
+  
+  .EVENT .date-picker-element-5 {
+    left: 75px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+    top: 0;
+    overflow: hidden;
+  }
+  
+  .EVENT .date-picker-element-6 {
+    left: 94px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+    top: 0;
+    overflow: hidden;
+  }
+  
+  .EVENT .date-picker-element-7 {
+    left: 113px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+    top: 0;
+    overflow: hidden;
+  }
+  
+  .EVENT .date-picker-element-8 {
+    position: absolute;
+    width: 19px;
+    height: 20px;
+    top: 20px;
+    left: 38px;
+  }
+  
+  .EVENT .text-2 {
+    font-family: "Outfit-Regular", Helvetica;
+    color: #ffffff;
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    top: -1px;
+    left: -11px;
+    font-weight: 400;
+    font-size: 8px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .EVENT .date-picker-element-9 {
+    top: 20px;
+    left: 56px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-10 {
+    top: 20px;
+    left: 75px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-11 {
+    top: 20px;
+    left: 94px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-12 {
+    top: 20px;
+    left: 113px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-13 {
+    top: 40px;
+    left: 0;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .text-3 {
+    font-family: "Uber Move Text-Regular", Helvetica;
+    color: #ffffff;
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    top: -1px;
+    left: -11px;
+    font-weight: 400;
+    font-size: 8px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .EVENT .date-picker-element-14 {
+    top: 40px;
+    left: 19px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-15 {
+    top: 40px;
+    left: 38px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-16 {
+    top: 40px;
+    left: 56px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-17 {
+    top: 40px;
+    left: 75px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-18 {
+    top: 40px;
+    left: 94px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-19 {
+    top: 40px;
+    left: 113px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-20 {
+    top: 60px;
+    left: 0;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-21 {
+    top: 60px;
+    left: 19px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-22 {
+    top: 60px;
+    left: 38px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-23 {
+    top: 60px;
+    left: 56px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-24 {
+    top: 60px;
+    left: 75px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .text-4 {
+    font-family: "Outfit-Regular", Helvetica;
+    color: #353a4f;
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    top: -1px;
+    left: -11px;
+    font-weight: 400;
+    font-size: 8px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .EVENT .date-picker-element-25 {
+    top: 60px;
+    left: 94px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-26 {
+    top: 60px;
+    left: 113px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-27 {
+    top: 80px;
+    left: 0;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .text-5 {
+    font-family: "Uber Move Text-Regular", Helvetica;
+    color: #353a4f;
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    top: -1px;
+    left: -11px;
+    font-weight: 400;
+    font-size: 8px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .EVENT .date-picker-element-28 {
+    top: 80px;
+    left: 19px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-29 {
+    top: 80px;
+    left: 38px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-30 {
+    top: 80px;
+    left: 56px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-31 {
+    top: 80px;
+    left: 75px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-32 {
+    top: 80px;
+    left: 94px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-33 {
+    top: 80px;
+    left: 113px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-34 {
+    top: 100px;
+    left: 0;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-35 {
+    top: 100px;
+    left: 19px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-36 {
+    top: 100px;
+    left: 38px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-37 {
+    top: 100px;
+    left: 56px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .date-picker-element-38 {
+    top: 100px;
+    left: 75px;
+    position: absolute;
+    width: 19px;
+    height: 20px;
+  }
+  
+  .EVENT .SIDE-MENU {
+    position: absolute;
+    width: 192px;
+    height: 692px;
+    top: 29px;
+    left: 0;
+    background-color: #0d0d14;
+    border-radius: 88px;
+  }
+  
+  .EVENT .image {
+    position: absolute;
+    width: 39px;
+    height: 39px;
+    top: 40px;
+    left: 77px;
+    object-fit: cover;
+  }
+  
+  .EVENT .group-13 {
+    position: absolute;
+    width: 176px;
+    height: 303px;
+    top: 318px;
+    left: 8px;
+  }
+  
+  .EVENT .frame-5 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    position: absolute;
+    top: 53px;
+    left: 12px;
+  }
+  
+  .EVENT .group-14 {
+    position: relative;
+    width: 151px;
+    height: 123px;
+  }
+  
+  .EVENT .overlap-5 {
+    position: relative;
+    width: 157px;
+    height: 123px;
+  }
+  
+  .EVENT .group-15 {
+    position: absolute;
+    width: 157px;
+    height: 123px;
+    top: 0;
+    left: 0;
+  }
+  
+  .EVENT .overlap-group-4 {
+    position: relative;
+    width: 151px;
+    height: 123px;
+    background-color: #1b1b2599;
+    border-radius: 32px;
+    border: 1px solid;
+    border-color: #000000;
+    backdrop-filter: blur(24px) brightness(100%);
+    -webkit-backdrop-filter: blur(24px) brightness(100%);
+  }
+  
+  .EVENT .text-wrapper-18 {
+    position: absolute;
+    top: 74px;
+    left: 24px;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 300;
+    color: #8a8aab;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .EVENT .text-wrapper-19 {
+    top: 90px;
+    left: 24px;
+    font-family: "Outfit-Light", Helvetica;
+    font-weight: 300;
+    color: #8a8aab;
+    font-size: 10px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .EVENT .overlap-6 {
+    position: absolute;
+    width: 114px;
+    height: 36px;
+    top: 14px;
+    left: 25px;
+  }
+  
+  .EVENT .rectangle-6 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 78px;
+    object-fit: cover;
+  }
+  
+  .EVENT .adidas-giveaway {
+    position: absolute;
+    width: 85px;
+    top: 6px;
+    left: 0;
+    font-family: "Outfit-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .EVENT .ellipse-4 {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    top: 25px;
+    left: 10px;
+    background-color: #71f10d;
+    border-radius: 2.5px;
+  }
+  
+  .EVENT .NOTI-2 {
+    display: flex;
+    width: 176px;
+    height: 53px;
+    justify-content: center;
+    gap: 24px;
+    padding: 12px 24px;
+    top: 0;
+    left: 0;
+    background-color: #0d0d14;
+    align-items: center;
+    position: absolute;
+    border-radius: 123px;
+  }
+  
+  .EVENT .text-wrapper-20 {
+    position: relative;
+    width: fit-content;
+    font-family: "Outfit-Medium", Helvetica;
+    font-weight: 500;
+    color: #9022ff;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .text-wrapper-21 {
+    position: relative;
+    width: fit-content;
+    font-family: "Outfit-Medium", Helvetica;
+    font-weight: 500;
+    color: #8a8aab;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .EVENT .frame-6 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    top: 100px;
+    left: 64px;
+  }
+  
+  .EVENT .img-wrapper {
+    position: relative;
+    width: 64px;
+    height: 64px;
+  }
+  
+  .EVENT .img-2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 20px;
+    left: 20px;
+  }
+  
+  .spline  {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    top: 46px;
+    left: 24px;
+  } 
